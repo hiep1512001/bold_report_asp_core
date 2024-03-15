@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Tai_Lieu\\bold_report_asp_core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA2B252-E3A8-43FE-86B9-5D3F2110B23D}|bold_report_asp_core.csproj|d:\\tai_lieu\\bold_report_asp_core\\controllers\\reportingapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA2B252-E3A8-43FE-86B9-5D3F2110B23D}|bold_report_asp_core.csproj|solutionrelative:controllers\\reportingapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA2B252-E3A8-43FE-86B9-5D3F2110B23D}|bold_report_asp_core.csproj|d:\\tai_lieu\\bold_report_asp_core\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFA2B252-E3A8-43FE-86B9-5D3F2110B23D}|bold_report_asp_core.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA2B252-E3A8-43FE-86B9-5D3F2110B23D}|bold_report_asp_core.csproj|d:\\tai_lieu\\bold_report_asp_core\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFA2B252-E3A8-43FE-86B9-5D3F2110B23D}|bold_report_asp_core.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA2B252-E3A8-43FE-86B9-5D3F2110B23D}|bold_report_asp_core.csproj|d:\\tai_lieu\\bold_report_asp_core\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CFA2B252-E3A8-43FE-86B9-5D3F2110B23D}|bold_report_asp_core.csproj|solutionrelative:views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA2B252-E3A8-43FE-86B9-5D3F2110B23D}|bold_report_asp_core.csproj|d:\\tai_lieu\\bold_report_asp_core\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFA2B252-E3A8-43FE-86B9-5D3F2110B23D}|bold_report_asp_core.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReportingAPIController.cs",
+              "DocumentMoniker": "D:\\Tai_Lieu\\bold_report_asp_core\\Controllers\\ReportingAPIController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReportingAPIController.cs",
+              "ToolTip": "D:\\Tai_Lieu\\bold_report_asp_core\\Controllers\\ReportingAPIController.cs",
+              "RelativeToolTip": "Controllers\\ReportingAPIController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAA2wDoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T07:27:57.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Tai_Lieu\\bold_report_asp_core\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Tai_Lieu\\bold_report_asp_core\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T07:27:26.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Tai_Lieu\\bold_report_asp_core\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Tai_Lieu\\bold_report_asp_core\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T07:26:57.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Tai_Lieu\\bold_report_asp_core\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Tai_Lieu\\bold_report_asp_core\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAkwCwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T07:26:01.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "D:\\Tai_Lieu\\bold_report_asp_core\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "D:\\Tai_Lieu\\bold_report_asp_core\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-15T07:26:04.864Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

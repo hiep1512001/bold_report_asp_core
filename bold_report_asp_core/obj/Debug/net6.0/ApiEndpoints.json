@@ -1,0 +1,107 @@
+[
+  {
+    "ContainingType": "bold_report_asp_core.Controllers.ReportingAPIController",
+    "Method": "GetImage",
+    "RelativePath": "api/ReportingAPI/GetImage",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "image",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "bold_report_asp_core.Controllers.ReportingAPIController",
+    "Method": "GetResource",
+    "RelativePath": "api/ReportingAPI/GetResource",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "resource",
+        "Type": "BoldReports.Web.ReportViewer.ReportResource",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "bold_report_asp_core.Controllers.ReportingAPIController",
+    "Method": "PostDesignerAction",
+    "RelativePath": "api/ReportingAPI/PostDesignerAction",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "jsonResult",
+        "Type": "System.Collections.Generic.Dictionary\u00602[[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Object, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "bold_report_asp_core.Controllers.ReportingAPIController",
+    "Method": "PostFormDesignerAction",
+    "RelativePath": "api/ReportingAPI/PostFormDesignerAction",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "bold_report_asp_core.Controllers.ReportingAPIController",
+    "Method": "PostFormReportAction",
+    "RelativePath": "api/ReportingAPI/PostFormReportAction",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "bold_report_asp_core.Controllers.ReportingAPIController",
+    "Method": "PostReportAction",
+    "RelativePath": "api/ReportingAPI/PostReportAction",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "jsonResult",
+        "Type": "System.Collections.Generic.Dictionary\u00602[[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Object, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "bold_report_asp_core.Controllers.ReportingAPIController",
+    "Method": "UploadReportAction",
+    "RelativePath": "api/ReportingAPI/UploadReportAction",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

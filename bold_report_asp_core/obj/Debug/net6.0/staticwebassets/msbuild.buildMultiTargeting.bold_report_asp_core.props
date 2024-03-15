@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\bold_report_asp_core.props" />
+</Project>

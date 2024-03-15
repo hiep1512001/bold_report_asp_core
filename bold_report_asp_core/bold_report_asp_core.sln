@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bold_report_asp_core", "bold_report_asp_core.csproj", "{CFA2B252-E3A8-43FE-86B9-5D3F2110B23D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFA2B252-E3A8-43FE-86B9-5D3F2110B23D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFA2B252-E3A8-43FE-86B9-5D3F2110B23D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFA2B252-E3A8-43FE-86B9-5D3F2110B23D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFA2B252-E3A8-43FE-86B9-5D3F2110B23D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D38AF3E7-8896-4EDD-9FAC-8ED8C0E43D09}
+	EndGlobalSection
+EndGlobal
